@@ -38,3 +38,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+----
+Objective from Arcyriea:
+- I need to configure this to export template static pages for me so I can paste over to either my Heliohost or my Neocity website
+- This is not meant to be deployed on Vercel, we would need to start a brand new project for that.
+
