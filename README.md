@@ -1,7 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-The project is intended to build a static page to upload and applies to Arcyriea's Neocity Landing Page, currently under development... 
-
+Rebuilding this to be my own operation hub, and to support the elven Ijyiakaryai. It would be a submission site for new OCs to sign up, I will create an OCs volunteer submission site.
 Target of application: [Possible future hosting on Vercel]
 ## Getting Started
 
