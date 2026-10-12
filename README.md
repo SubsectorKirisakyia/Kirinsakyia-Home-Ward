@@ -2,8 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 The project is intended to build a static page to upload and applies to Arcyriea's Neocity Landing Page, currently under development... 
 
-Target of application: https://arcyriea-loreverse.neocities.org/
-
+Target of application: [Possible future hosting on Vercel]
 ## Getting Started
 
 First, run the development server:
